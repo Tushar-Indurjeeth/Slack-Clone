@@ -1,5 +1,5 @@
 # Slack Clone
-A Slack clone with real time messageing, ability to add channels, and Google Authentication built using [React](https://reactjs.org/) and [Redux](https://react-redux.js.org/).
+A Slack clone with real time messaging, ability to add channels, and Google Authentication built using [React](https://reactjs.org/) and [Redux](https://react-redux.js.org/).
 
 ## Live demo
 [https://slack-clone-e86e5.web.app/](https://slack-clone-e86e5.web.app/)
